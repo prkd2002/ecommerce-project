@@ -1,0 +1,168 @@
+[
+    {
+      "Id": 1,
+      "Name": "Product 1",
+      "description": "Description for product 1",
+      "price": 10.99,
+      "pictureUrl": "http://example.com/product1.jpg",
+      "productType": { "id": 1, "name": "Type A" },
+      "productTypeId": 1,
+      "productBrand": { "id": 1, "name": "Brand A" },
+      "productBrandId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Product 2",
+      "description": "Description for product 2",
+      "price": 15.50,
+      "pictureUrl": "http://example.com/product2.jpg",
+      "productType": { "id": 2, "name": "Type B" },
+      "productTypeId": 2,
+      "productBrand": { "id": 2, "name": "Brand B" },
+      "productBrandId": 2
+    },
+    {
+      "id": 3,
+      "Name": "Product 3",
+      "description": "Description for product 3",
+      "price": 8.99,
+      "pictureUrl": "http://example.com/product3.jpg",
+      "productType": { "id": 3, "name": "Type C" },
+      "productTypeId": 3,
+      "productBrand": { "id": 3, "name": "Brand C" },
+      "productBrandId": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Product 4",
+      "description": "Description for product 4",
+      "price": 12.75,
+      "pictureUrl": "http://example.com/product4.jpg",
+      "productType": { "id": 4, "name": "Type D" },
+      "productTypeId": 4,
+      "productBrand": { "id": 4, "name": "Brand D" },
+      "productBrandId": 4
+    },
+    {
+      "id": 5,
+      "Name": "Product 5",
+      "description": "Description for product 5",
+      "price": 20.00,
+      "pictureUrl": "http://example.com/product5.jpg",
+      "productType": { "id": 5, "name": "Type E" },
+      "productTypeId": 5,
+      "productBrand": { "id": 5, "name": "Brand E" },
+      "productBrandId": 5
+    },
+    {
+      "Id": 6,
+      "Name": "Product 6",
+      "description": "Description for product 6",
+      "price": 9.30,
+      "pictureUrl": "http://example.com/product6.jpg",
+      "productType": { "id": 6, "name": "Type F" },
+      "productTypeId": 6,
+      "productBrand": { "id": 6, "name": "Brand F" },
+      "productBrandId": 6
+    },
+    {
+      "Id": 7,
+      "Name": "Product 7",
+      "description": "Description for product 7",
+      "price": 18.99,
+      "pictureUrl": "http://example.com/product7.jpg",
+      "productType": { "id": 7, "name": "Type G" },
+      "productTypeId": 7,
+      "productBrand": { "id": 7, "name": "Brand G" },
+      "productBrandId": 7
+    },
+    {
+      "Id": 8,
+      "Name": "Product 8",
+      "description": "Description for product 8",
+      "price": 5.50,
+      "pictureUrl": "http://example.com/product8.jpg",
+      "productType": { "id": 8, "name": "Type H" },
+      "productTypeId": 8,
+      "productBrand": { "id": 8, "name": "Brand H" },
+      "productBrandId": 8
+    },
+    {
+      "Id": 9,
+      "Name": "Product 9",
+      "description": "Description for product 9",
+      "price": 25.00,
+      "pictureUrl": "http://example.com/product9.jpg",
+      "productType": { "id": 9, "name": "Type I" },
+      "productTypeId": 9,
+      "productBrand": { "id": 9, "name": "Brand I" },
+      "productBrandId": 9
+    },
+    {
+      "Id": 10,
+      "Name": "Product 10",
+      "description": "Description for product 10",
+      "price": 30.75,
+      "pictureUrl": "http://example.com/product10.jpg",
+      "productType": { "id": 10, "name": "Type J" },
+      "productTypeId": 10,
+      "productBrand": { "id": 10, "name": "Brand J" },
+      "productBrandId": 10
+    },
+    {
+      "Id": 11,
+      "Name": "Product 11",
+      "description": "Description for product 11",
+      "price": 40.00,
+      "pictureUrl": "http://example.com/product11.jpg",
+      "productType": { "id": 11, "name": "Type K" },
+      "productTypeId": 11,
+      "productBrand": { "id": 11, "name": "Brand K" },
+      "productBrandId": 11
+    },
+    {
+      "Id": 12,
+      "Name": "Product 12",
+      "description": "Description for product 12",
+      "price": 22.00,
+      "pictureUrl": "http://example.com/product12.jpg",
+      "productType": { "id": 12, "name": "Type L" },
+      "productTypeId": 12,
+      "productBrand": { "id": 12, "name": "Brand L" },
+      "productBrandId": 12
+    },
+    {
+      "Id": 13,
+      "Name": "Product 13",
+      "description": "Description for product 13",
+      "price": 19.99,
+      "pictureUrl": "http://example.com/product13.jpg",
+      "productType": { "id": 13, "name": "Type M" },
+      "productTypeId": 13,
+      "productBrand": { "id": 13, "name": "Brand M" },
+      "productBrandId": 13
+    },
+    {
+      "Id": 14,
+      "Name": "Product 14",
+      "description": "Description for product 14",
+      "price": 60.00,
+      "pictureUrl": "http://example.com/product14.jpg",
+      "productType": { "id": 14, "name": "Type N" },
+      "productTypeId": 14,
+      "productBrand": { "id": 14, "name": "Brand N" },
+      "productBrandId": 14
+    },
+    {
+      "Id": 15,
+      "Name": "Product 15",
+      "description": "Description for product 15",
+      "price": 12.99,
+      "pictureUrl": "http://example.com/product15.jpg",
+      "productType": { "id": 15, "name": "Type O" },
+      "productTypeId": 15,
+      "productBrand": { "id": 15, "name": "Brand O" },
+      "productBrandId": 15
+    }
+  ]
+  
